@@ -1,0 +1,9 @@
+Git branch 
+to check branches 
+. git branch 
+. To create a branch 
+. git branch branchName
+. To switch between branch 
+. git checkout branchName 
+. To rename a branch 
+. git branch -M new_branch_name
