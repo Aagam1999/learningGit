@@ -11,3 +11,40 @@ I will access as a collaborator to sub
 -- al -- review code 
 -- al -- merge that code into the master branch 
 
+////
+retrospect 
+what went wel
+what went wrong 
+what are you going to next 
+
+// 
+--we are on schedule -- 
+--Intro to JS 
+-- Linux 
+-- Git 
+
+(another part on git - resolving branch )
+- from monday - screen sharing screen 
+- setup dual monitor 
+// 
+Javascript 
+DEep dive 
+algorithmic thinking
+recursions 
+oops js 
+
+///
+Complete Linux practie problems 
+Practice Git and Github (learn) 
+share a js book 
+pre bootcamp problems (10 probs)
+
+
+//  when we are leanring new 
+// topics (linux)
+// practice problems 
+// break 
+// retrospect (link with your reaal worlds examples) -- blogs(technical doc)
+// understand, where it can be applied . (mental models)
+// you will it apply - coding - build stuff 
+// mark it as complete 
