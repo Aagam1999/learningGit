@@ -12,3 +12,5 @@ commit to files
 git commit -m "git init"
 to check staus 
 git status  
+to check commit logs 
+git log --oneline
