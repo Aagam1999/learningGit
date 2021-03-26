@@ -1,0 +1,14 @@
+first git
+first check if git is installed 
+cmd = git --version
+setting username and email for git 
+git config --global user.email "aagamgada1999@gmail.com"
+git config --global user.name "Aagam1999"
+intialize your working directory 
+git init 
+add to the staging index
+git add . 
+commit to files 
+git commit -m "git init"
+to check staus 
+git status  
