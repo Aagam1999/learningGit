@@ -1,0 +1,13 @@
+Create a repository in the hacking school organization 
+I will be the owner
+but it create with ths_cohortc_sub 
+I will push code master branch --- all labs and execises 
+I will access as a collaborator to sub 
+- sub -- clone repository
+- sub -- create a branch name - 
+- sub --- add solutions to execises in your branch 
+-- sub -- push your branch to githhub 
+-- sub --- create a draft pull requsest (resolve conflicts) , that is ready for review 
+-- al -- review code 
+-- al -- merge that code into the master branch 
+
